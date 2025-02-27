@@ -9,7 +9,7 @@ function App() {
               Science Fest 2025
             </h1>
             <p className="text-white text-lg md:text-xl max-w-2xl mx-auto leading-relaxed opacity-90">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus quia ipsum maiores non rem? Ratione voluptates 
+            Get ready to test your knowledge and skills in an exciting science-based game designed for all ages. Explore fascinating challenges, solve puzzles, and learn amazing facts about the world of science.
             </p>
           </div>
 
